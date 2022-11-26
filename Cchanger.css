@@ -1,0 +1,23 @@
+.dropdown
+{
+    height:400px;
+    width:300px;
+    border:25px solid black;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.apptitle
+{
+    margin-top: 100px;
+    text-decoration:dotted;
+    color:rgb(226, 43, 205);
+    font-size: 60px;
+    
+}
+#label
+{
+    font-size: 40px;
+    color:rgb(165, 42, 93);
+    font-weight: bold;
+    text-decoration: dotted;
+}
